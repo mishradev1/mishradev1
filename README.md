@@ -94,7 +94,7 @@ ML-based agriculture prediction platform. ⭐ 90 · 🍴 117<br/>
 </table>
 </div>
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
